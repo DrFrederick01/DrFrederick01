@@ -6,7 +6,7 @@
   - 🎮 A classic arcade shooter built from scratch with sprite movement, collision detection, and power ups.  
   - [View on GitHub](#) <!-- Replace with your actual repo link -->
 
-- <b>Autonomous Debris-Collecting Boat (Arduino IO3 Mini, C++)</b>  
+- <b>Autonomous Debris-Collecting Boat (Arduino Nano 33 IoT , C++)</b>  
   - 🚤 Designed and implemented motor control system for a debris-collecting prototype boat using Arduino IO3 Mini.  
   - Connected and programmed the motor controller to respond to input logic for steering and collection.  
   - [View Project Summary](#) <!-- Link to a repo or Notion/PDF with diagrams & photos -->
