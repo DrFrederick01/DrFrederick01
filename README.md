@@ -4,44 +4,44 @@
 
 - <b>Retro Space Invaders Game (Python, Pygame)</b>  
   - 🎮 A classic arcade shooter built from scratch with sprite movement, collision detection, and power ups.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View Project](https://github.com/DrFrederick01/Retro-Space-Invaders-Video-Game) 
 
 - <b>Autonomous Debris-Collecting Boat (Arduino Nano 33 IoT , C++)</b>  
   - 🚤 Designed and implemented motor control system for a debris-collecting prototype boat using Arduino IO3 Mini.  
   - Connected and programmed the motor controller to respond to input logic for steering and collection.  
-  - [View Project Summary](#) <!-- Link to a repo or Notion/PDF with diagrams & photos -->
+  - [View Project Summary](#) 
 
 - <b>Bike Drivetrain Simulation & Motor Controller Design (MATLAB, Simulink)</b>  
   - 🚲 Designed and simulated a motor-driven bicycle drivetrain using MATLAB & Simulink.  
   - Modelled electromechanical system (DC motor, timing belt, rear wheel) and specified power supply, gearbox, and control system parameters.  
   - Implemented and tuned a digital feedback controller to optimise bike speed and position control under varied operating conditions.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View on GitHub](#)
 
  
 - <b>Ethanol-Water Distillation Heat Transfer Model (MATLAB, Simulink)</b>  
   - ♨️ Simulated a multi-stage ethanol-water distillation system using MATLAB with iterative heat transfer analysis.  
   - Calculated surface temperatures, heat transfer coefficients, and mass transfer rates using convergence-based methods across varying ethanol concentrations and steam conditions.  
   - Applied theoretical models (Nusselt & Rayleigh correlations) to compute boiling and condensation dynamics on a stainless-steel heat plate.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View on GitHub](#) 
 
 
 - <b>MATLAB Signal Processing Coursework (MATLAB)</b>  
   - 📈 Developed digital filters and analyzed audio signals using FFTs and time-domain transformations.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View on GitHub](#) 
  
 
 - <b>Thermocouple Radiation Error & Heat Transfer Analysis (MATLAB)</b>  
   - 🌡️ Investigated temperature measurement errors in heated airflow using thermocouples of varying size, finish, and emissivity under different air velocities and radiation conditions.  
   - Analysed heat balance equations to calculate convective heat transfer coefficients and emissivity values; validated results using Whitaker’s correlation for spheres.  
   - Produced MATLAB plots showing error trends, airflow effects, and shielding impact, with a final report recommending optimal sensor configurations for minimal measurement error.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View on GitHub](#)
 
 
 - <b>Real-Time Speech Highlighting App (Flutter, Dart)</b>  
   - 🎤 Built a mobile app to support public speaking by highlighting scripted text in real time as it's spoken.  
   - Integrated `speech_to_text` for voice recognition and `highlight_text` for dynamic word tracking; used `Flutter` for UI and responsive interactivity.  
   - Designed to prevent speakers from losing track during presentations by visually updating progress through notes or speeches.  
-  - [View on GitHub](#) <!-- Replace with your actual repo link -->
+  - [View on GitHub](#) 
 
 <h2>📜 Certifications:</h2>
 
