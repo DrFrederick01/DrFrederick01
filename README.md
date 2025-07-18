@@ -9,7 +9,7 @@
 - <b>Autonomous Debris-Collecting Boat (Arduino Nano 33 IoT , C++)</b>  
   - 🚤 Designed and implemented motor control system for a debris-collecting prototype boat using Arduino IO3 Mini.  
   - Connected and programmed the motor controller to respond to input logic for steering and collection.  
-  - [View Project Summary](#) 
+  - [View Project](https://github.com/DrFrederick01/Autonomous-Debris-Collecting-Boat) 
 
 - <b>Bike Drivetrain Simulation & Motor Controller Design (MATLAB, Simulink)</b>  
   - 🚲 Designed and simulated a motor-driven bicycle drivetrain using MATLAB & Simulink.  
