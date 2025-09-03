@@ -15,7 +15,7 @@
   - 🚲 Designed and simulated a motor-driven bicycle drivetrain using MATLAB & Simulink.  
   - Modelled electromechanical system (DC motor, timing belt, rear wheel) and specified power supply, gearbox, and control system parameters.  
   - Implemented and tuned a digital feedback controller to optimise bike speed and position control under varied operating conditions.  
-  - [View on GitHub](#)
+    - [View Project](https://github.com/DrFrederick01/Bike-Drivetrain-Simulation-Motor-Controller-Design-MATLAB-Simulink-) 
 
  
 - <b>Ethanol-Water Distillation Heat Transfer Model (MATLAB, Simulink)</b>  
