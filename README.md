@@ -22,7 +22,7 @@
   - ♨️ Simulated a multi-stage ethanol-water distillation system using MATLAB with iterative heat transfer analysis.  
   - Calculated surface temperatures, heat transfer coefficients, and mass transfer rates using convergence-based methods across varying ethanol concentrations and steam conditions.  
   - Applied theoretical models (Nusselt & Rayleigh correlations) to compute boiling and condensation dynamics on a stainless-steel heat plate.  
-  - [View on GitHub](#) 
+   
 
 
 - <b>MATLAB Signal Processing Coursework (MATLAB)</b>  
@@ -34,7 +34,7 @@
   - 🌡️ Investigated temperature measurement errors in heated airflow using thermocouples of varying size, finish, and emissivity under different air velocities and radiation conditions.  
   - Analysed heat balance equations to calculate convective heat transfer coefficients and emissivity values; validated results using Whitaker’s correlation for spheres.  
   - Produced MATLAB plots showing error trends, airflow effects, and shielding impact, with a final report recommending optimal sensor configurations for minimal measurement error.  
-  - [View on GitHub](#)
+  - [View Project](https://github.com/DrFrederick01/Ethanol-Water-Distillation-Heat-Transfer-Model-MATLAB-Simulink-) 
 
 
 - <b>Real-Time Speech Highlighting App (Flutter, Dart)</b>  
