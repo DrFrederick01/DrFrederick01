@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 Software & Engineering Projects:</h2>
 
+
+- <b>Real-Time Speech Highlighting Android App (Flutter, Dart)</b>  
+  - 🎤 Built a mobile app to support public speaking by highlighting scripted text in real time as it's spoken.  
+  - Integrated `speech_to_text` for voice recognition and `highlight_text` for dynamic word tracking; used `Flutter` for UI and responsive interactivity.  
+  - Designed to prevent speakers from losing track during presentations by visually updating progress through notes or speeches.  
+  - [View Project](https://github.com/DrFrederick01/Real-Time-Speech-Highlighting-App-Flutter-Dart-) 
+
 - <b>Retro Space Invaders Game (Python, Pygame)</b>  
   - 🎮 A classic arcade shooter built from scratch with sprite movement, collision detection, and power ups.  
   - [View Project](https://github.com/DrFrederick01/Retro-Space-Invaders-Video-Game) 
@@ -36,12 +43,6 @@
   - Produced MATLAB plots showing error trends, airflow effects, and shielding impact, with a final report recommending optimal sensor configurations for minimal measurement error.  
   - [View Project](https://github.com/DrFrederick01/Ethanol-Water-Distillation-Heat-Transfer-Model-MATLAB-Simulink-) 
 
-
-- <b>Real-Time Speech Highlighting App (Flutter, Dart)</b>  
-  - 🎤 Built a mobile app to support public speaking by highlighting scripted text in real time as it's spoken.  
-  - Integrated `speech_to_text` for voice recognition and `highlight_text` for dynamic word tracking; used `Flutter` for UI and responsive interactivity.  
-  - Designed to prevent speakers from losing track during presentations by visually updating progress through notes or speeches.  
-  - [View on GitHub](#) 
 
 <h2>📜 Certifications:</h2>
 
