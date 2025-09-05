@@ -34,7 +34,7 @@
 
 - <b>MATLAB Signal Processing Coursework (MATLAB)</b>  
   - 📈 Developed digital filters and analyzed audio signals using FFTs and time-domain transformations.  
-  - [View on GitHub](#) 
+  - [View Project](https://github.com/DrFrederick01/Signal-Processing-MATLAB-) 
  
 
 - <b>Thermocouple Radiation Error & Heat Transfer Analysis (MATLAB)</b>  
