@@ -29,7 +29,7 @@
   - ♨️ Simulated a multi-stage ethanol-water distillation system using MATLAB with iterative heat transfer analysis.  
   - Calculated surface temperatures, heat transfer coefficients, and mass transfer rates using convergence-based methods across varying ethanol concentrations and steam conditions.  
   - Applied theoretical models (Nusselt & Rayleigh correlations) to compute boiling and condensation dynamics on a stainless-steel heat plate.  
-   
+   - [View Project](https://github.com/DrFrederick01/Ethanol-Water-Distillation-Heat-Transfer-Model-MATLAB-) 
 
 
 - <b>MATLAB Signal Processing Coursework (MATLAB)</b>  
